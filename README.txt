@@ -1,6 +1,7 @@
 How to use program : 
 	1- Run Main and watch the race inside "output.txt".
 	2- Race doesn't show in console but in file.
+	3- When player arrives at last index of row, won.
 
 CONS : 
 	-I couldn't do more than one player. It is single player.
